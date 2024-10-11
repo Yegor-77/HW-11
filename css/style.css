@@ -1,0 +1,11 @@
+.div{
+background-color: green;
+ padding: 15px, 10px, 20px, 15px ; 
+ margin: 30px, 110px, 320px, 110px;
+border: 2px dotted;
+}
+*{
+    box-sizing: border-box;
+
+}
+
